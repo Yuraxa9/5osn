@@ -2,8 +2,6 @@ node_modules
 .env
 .idea
 dist
-order-card
-order-info
 order-status
 orders-list
 profile-menu
