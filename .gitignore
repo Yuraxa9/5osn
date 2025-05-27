@@ -2,8 +2,6 @@ node_modules
 .env
 .idea
 dist
-order-status
-orders-list
 profile-menu
 protected-route
 ui
