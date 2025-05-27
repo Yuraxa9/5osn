@@ -2,8 +2,6 @@ node_modules
 .env
 .idea
 dist
-ingredients-category
-modal
 order-card
 order-info
 order-status
