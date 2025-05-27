@@ -2,8 +2,6 @@ node_modules
 .env
 .idea
 dist
-burger-constructor-element
-burger-ingredient
 burger-ingredients
 centering-component
 feed-info
