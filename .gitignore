@@ -2,6 +2,4 @@ node_modules
 .env
 .idea
 dist
-profile-menu
-protected-route
 ui
