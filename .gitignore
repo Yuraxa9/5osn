@@ -2,8 +2,6 @@ node_modules
 .env
 .idea
 dist
-burger-ingredients
-centering-component
 feed-info
 ingredient-details
 ingredients-category
