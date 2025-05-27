@@ -2,8 +2,6 @@ node_modules
 .env
 .idea
 dist
-app-header
-burger-constructor
 burger-constructor-element
 burger-ingredient
 burger-ingredients
